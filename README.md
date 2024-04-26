@@ -1,0 +1,1 @@
+# vezbi_6_1_inheritance_triple
